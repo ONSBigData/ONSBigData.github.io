@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : &name "ONS Big Data" # &name is a YAML anchor which can be *referenced later
 title_separator          : "-"
-name                     : "Your Name"
+name                     : *name # *name is a YAML reference pointing to the &anchor earlier
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://onsbigdata.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "onsbigdata/onsbigdata.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : *name
+  avatar           : "/assets/images/ascii_logo.png"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "UK"
+  email            : ons.big.data.project@ons.gsi.gov.uk
+  uri              : "https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -177,7 +177,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
 
 
 # Plugins (previously gems:)
