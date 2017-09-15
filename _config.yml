@@ -8,12 +8,12 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-GB"
 title                    : &name "ONS Big Data" # &name is a YAML anchor which can be *referenced later
 title_separator          : "-"
-name                     : *name # *name is a YAML reference pointing to the &anchor earlier
-description              : "An amazing website."
-url                      : https://onsbigdata.github.io
+name                     : "The ONS Big Data Team"
+description              : "The ONS Big Data Team GitHub website."
+url                      : "https://onsbigdata.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "onsbigdata/onsbigdata.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/ascii_logo.png"
   bio              : "I am an amazing person."
   location         : "UK"
