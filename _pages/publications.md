@@ -4,7 +4,7 @@ layout: archive
 permalink: /publications/
 ---
 
-A variety of common markup showing how the theme styles them.
+A list of all the publications (papers, blogs) published by us.
 
 ## Blockquotes
 
