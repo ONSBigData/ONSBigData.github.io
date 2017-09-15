@@ -15,8 +15,12 @@ A list of all the publications (papers, blogs) published by us.
 ## Methodology working papers
 
 * **Spakulova I.** (Forthcoming) Use of satellite imagery to identify caravans
-* **Williams S., Sozzi A.** (Forthcoming) Comparing densities of mobile cell towers with population estimates
-* **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017)
+* **Williams S., Sozzi A.** (Forthcoming) Comparing densities of mobile cell towers with population estimates <a href="https://github.com/ONSBigData/OpencellID-analysis">
+  <i class="fa fa-fw fa-github" aria-hidden="true"></i>
+</a>
+* **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites">
+  <i class="fa fa-fw fa-github" aria-hidden="true"></i>
+</a>
 * **Williams S.** (2017) [Statistical uses for mobile phone data - literature review](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno8statisticalusesformobilephonedataliteraturereview)
 * **Sozzi A.** (2016) [Comparing counts of electricity meters and addresses by postcode in England and Wales](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/comparingcountsofelectricitymetersandaddressesbypostcodeinenglandandwales.pdf)
 * **Gask K., Williams S.** (2015) [Analysing low electricity consumption using DECC data](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/analysinglowelectricityconsumptionusingdeccdata_tcm77-418326.pdf)
@@ -27,7 +31,9 @@ A list of all the publications (papers, blogs) published by us.
 ## Government Statistical Service Methodology series
 
 * **Williams S.**, **Gask K.** (2015) [Modelling sample data from smart type electricity meters to assess potential within official statistics](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/modellingsampledatafromsmarttypeelectricitymeterstoassesspotentialwithinofficialstatistics_tcm77-408756%281%29.pdf)
-* **Swier N.**, **Komarniczky B.**, **Clapperton B.** (2015) [Using geolocated Twitter traces to infer residence and mobility](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/usinggeolocatedtwittertracestoinferresidenceandmobility.pdf)
+* **Swier N.**, **Komarniczky B.**, **Clapperton B.** (2015) [Using geolocated Twitter traces to infer residence and mobility](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/usinggeolocatedtwittertracestoinferresidenceandmobility.pdf) <a href="https://github.com/ONSBigData/ONS_Twitter">
+  <i class="fa fa-fw fa-github" aria-hidden="true"></i>
+</a>
 
 ## Office for National Statistics papers
 * **Metcalfe E.**, **Flower T.**, **Lewis T.**, **Mayhew M.** **Rowland E.** (2016) [Research indices using web scraped price data: clustering large datasets into price indices (CLIP)](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/researchindicesusingwebscrapeddatamay2016final002.pdf)
@@ -45,6 +51,8 @@ A list of all the publications (papers, blogs) published by us.
 
 * **Swier N.** (ISI 2017 Conference paper) How should web scraping be organised for official statistics?
 * **Abbott O.**, **Lee P.**, **Upson M.**, **Gregory M.**, **Duhaney D.** (Statistical Data Science conference 2017 Conference paper) Blending Data Science and statistics across government
-* **Sozzi A.** (NTTS 2017 Conference paper) [Measuring Sustainability Reporting using Web Scraping and Natural Language Processing](https://ec.europa.eu/eurostat/cros/ntts2017programme/data/x_abstracts/x_abstract_36.docx)
+* **Sozzi A.** (NTTS 2017 Conference paper) [Measuring Sustainability Reporting using Web Scraping and Natural Language Processing](https://ec.europa.eu/eurostat/cros/ntts2017programme/data/x_abstracts/x_abstract_36.docx) <a href="https://github.com/ONSBigData/Measuring-Sustainability-Reporting">
+  <i class="fa fa-fw fa-github" aria-hidden="true"></i>
+</a>
 * **Naylor J.**, **Swier N.**, **Williams S.** (IAOS 2016 Conference paper) Estimating population mobility using big data sources - the benefits and the challenges
 * **Naylor J.**, **Swier N.**, **Williams S.** (NTTS 2015 Conference paper) [The ONS Big Data Project](https://ec.europa.eu/eurostat/cros/system/files/no 965.docx)
