@@ -1,0 +1,503 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.6.0 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Happy campers: Using machine learning to identify caravans in Zoopla data - ONS Big Data</title>
+
+
+
+
+<meta name="description" content="">
+
+
+
+
+<meta name="author" content="ONS Big Data Team">
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:site_name" content="ONS Big Data">
+<meta property="og:title" content="Happy campers: Using machine learning to identify caravans in Zoopla data">
+
+
+  <link rel="canonical" href="http://localhost:4000/happy-campers/">
+  <meta property="og:url" content="http://localhost:4000/happy-campers/">
+
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2017-06-21T00:00:00+01:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "The ONS Big Data Team",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="ONS Big Data Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">ONS Big Data</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">About</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">Blog</a></li>
+          
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="http://localhost:4000/assets/images/ascii_logo.png" class="author__avatar" alt="ONS Big Data Team" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">ONS Big Data Team</h3>
+    
+      <p class="author__bio" itemprop="description">
+        I am an amazing person.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">UK</span>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Our ONS Page
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:ons.big.data.project@ons.gsi.gov.uk">
+            <meta itemprop="email" content="ons.big.data.project@ons.gsi.gov.uk" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/onsbigdata" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Happy campers: Using machine learning to identify caravans in Zoopla data">
+    <meta itemprop="description" content="">
+    <meta itemprop="datePublished" content="June 21, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Happy campers: Using machine learning to identify caravans in Zoopla data
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p><img src="https://digitalblog.ons.gov.uk/wp-content/uploads/sites/9/2017/06/80a4240c.png" alt="" /></p>
+
+<p>Our Big Data team has published a <a href="https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017">report</a> about collecting and using data from the property website Zoopla to identify the location of caravan homes. This information could help to make the census more efficient.</p>
+
+<p>Caravan homes are important because they are recorded either inconsistently or not at all in different data sources. During the 2011 Census, when 85,000 such homes were counted, it was difficult to correctly count the number of people living in caravan parks, holiday sites and other leisure parks, and we spent a lot of time trying to establish the facts (such as whether the caravan park was for holiday or residential purposes).</p>
+
+<h2 id="why-use-data-from-property-websites"><strong>Why use data from property websites?</strong></h2>
+
+<p>Property websites such as Rightmove and Zoopla show a lot of information about properties including their location, number of bedrooms, type of property and descriptive information about the home. It could be useful for identifying a range of features such as whether the property is in a gated community (we may have difficulty in getting to the front door of properties) and caravan homes.</p>
+
+<h2 id="what-did-we-do-to-identify-the-caravan-homes"><strong>What did we do to identify the caravan homes?</strong></h2>
+
+<p>A limited amount of data about properties for sale or rent can be collected from Zoopla for free, by writing some code to obtain data from their Application Programming Interface (API). We collected data about 36,000 properties, around 500 of which were caravan homes.</p>
+
+<p>We built different machine learning models to try to identify caravans in the data using information such as the price (caravan homes tend to be cheaper), number of bedrooms and whether certain phrases (such as “static caravan”) are in the property description. Some interesting oddities arose, such as large properties for sale that included a static caravan on their land, but overall we were able to identify the location of caravan homes with good accuracy.</p>
+
+<h2 id="whats-next"><strong>What’s next?</strong></h2>
+
+<p>Since we did this piece of work ONS has acquired two much larger sets of Zoopla data. Using these, we’ll be redoing some of the <a href="https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017">above work</a> (to make sure our model is robust). We will extend it to identify caravan homes used for holiday or residential purposes, gated communities and retirement properties.</p>
+
+<h2 id="obtain-the-code-we-used"><strong>Obtain the code we used</strong></h2>
+
+<p>It is important for us to make as much code openly available as possible. The code used to extract property data from the Zoopla API and the machine learning code used in the report published (both written in Python) are available on <a href="https://github.com/ONSBigData/housing-websites">the ONS Big Data team GitHub pages</a>.</p>
+
+<h2 id="contact-us"><strong>Contact us</strong></h2>
+
+<p>We would also love to get your feedback on what we’ve done or for you to suggest further ways in which the methods or data could be used. Please do so by contacting <a href="mailto:karen.gask%40ons.gov.uk">Karen Gask</a> or the <a href="mailto:ons.big.data.project%40ons.gov.uk">Big Data team</a>. We’ve also been working on using satellite imagery to identify the location of caravan homes so we’ll be writing a blog about that soon.</p>
+
+<blockquote>
+  <p>The following blog post is written by [Karen Gask][https://twitter.com/GaskyK], Data Scientist, and was originally posted in the <a href="https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/">ONS Digital blog</a></p>
+</blockquote>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-06-21T00:00:00+01:00">June 21, 2017</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Happy+campers%3A+Using+machine+learning+to+identify+caravans+in+Zoopla+data%20http%3A%2F%2Flocalhost%3A4000%2Fhappy-campers%2F" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fhappy-campers%2F" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fhappy-campers%2F" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fhappy-campers%2F" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="http://localhost:4000/emotional-side-of-data/" class="pagination--pager" title="The ‘emotional’ side of data
+">Previous</a>
+    
+    
+      <a href="http://localhost:4000/civil-service-live-better-use-of-data/" class="pagination--pager" title="Civil Servants get lessons in better use of data
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/civil-service-live-better-use-of-data/" rel="permalink">Civil Servants get lessons in better use of data
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/emotional-side-of-data/" rel="permalink">The ‘emotional’ side of data
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This incl...</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/big-data-at-ons/" rel="permalink">Big Data at ONS
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">My name is Jane Naylor and I’m Head of the Big Data team at the ONS. The team was established in January 2014 and brought together staff with a mixture of st...</p>
+  </article>
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/onsbigdata"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 The ONS Big Data Team. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+
+
+  </body>
+</html>

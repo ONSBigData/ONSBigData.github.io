@@ -1,0 +1,520 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.6.0 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>The ‘emotional’ side of data - ONS Big Data</title>
+
+
+
+
+<meta name="description" content="Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.">
+
+
+
+
+<meta name="author" content="ONS Big Data Team">
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:site_name" content="ONS Big Data">
+<meta property="og:title" content="The ‘emotional’ side of data">
+
+
+  <link rel="canonical" href="http://localhost:4000/emotional-side-of-data/">
+  <meta property="og:url" content="http://localhost:4000/emotional-side-of-data/">
+
+
+
+  <meta property="og:description" content="Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2016-11-07T00:00:00+00:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "The ONS Big Data Team",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="ONS Big Data Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">ONS Big Data</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">About</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">Blog</a></li>
+          
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="http://localhost:4000/assets/images/ascii_logo.png" class="author__avatar" alt="ONS Big Data Team" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">ONS Big Data Team</h3>
+    
+      <p class="author__bio" itemprop="description">
+        I am an amazing person.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">UK</span>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Our ONS Page
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:ons.big.data.project@ons.gsi.gov.uk">
+            <meta itemprop="email" content="ons.big.data.project@ons.gsi.gov.uk" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/onsbigdata" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The ‘emotional’ side of data">
+    <meta itemprop="description" content="Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.">
+    <meta itemprop="datePublished" content="November 07, 2016">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">The ‘emotional’ side of data
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.</p>
+
+<h2 id="what-is-natural-language-processing">What is Natural Language Processing?</h2>
+
+<p>Natural Language Processing can help us understand lots of text in an automated way, especially where the text might be so big that it might be infeasible for us to read it all. Some methods are aimed at differentiating between emotions while other methods are better for classifying text talking about different things or for retrieving the answer to a question.</p>
+
+<h2 id="so-how-can-natural-language-processing-be-applied-in-official-statistics">So how can Natural Language Processing be applied in official statistics?</h2>
+
+<p>Here are some examples from our work:</p>
+
+<h3 id="classification-problems">Classification problems</h3>
+
+<p>It is important for Census Field Operations to know where people are living and where they are not. During the 2011 Census we repeatedly tried to contact people in properties which were actually vacant. If we can identify vacant properties in advance, we’ll save money.</p>
+
+<p>We manually classified 500 descriptions of caravans for sale or rent from property websites (such as Rightmove or Zoopla) into whether they were for holiday or residential use. From that we could see which words were most correlated with being in a holiday or residential description. Unsurprisingly, the words most correlated with holiday caravans included “pool”, “bar”, “restaurant” and “beach” and we were able to classify about 90% of descriptions accurately based on what we found. We are working with the Census Transformation Programme at ONS to evaluate whether this approach can be used on a larger scale.</p>
+
+<h3 id="automated-thematic-analysis-of-text">Automated thematic analysis of text</h3>
+
+<p>The <a href="http://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals</a> (SDGs) aim to end poverty, fight inequality and injustice, and tackle climate change by 2030. Goal 12 is to ensure sustainable consumption and production patterns. One of the indicators is “To encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle”. This is an area for which no official data is collected. The data science techniques we have developed could fill that gap.</p>
+
+<p>We’ve built programs to automatically find sustainability reports on the websites of 100 of the UK’s largest companies and found that 59 out of 100 had sustainability reports. We then analysed the sustainability text on their websites and found that the focus of their efforts varied depending on the industrial sector of the company. For example:</p>
+
+<ul>
+  <li>construction companies are more likely to focus on their environmental policies</li>
+  <li>the service sector is more likely to focus on charitable work</li>
+</ul>
+
+<p><a href="http://bl.ocks.org/AlessandraSozzi/raw/ce1ace56e4aed6f2d614ae2243aab5a5/#topic=0&amp;lambda=1&amp;term=https://goo.gl/NZH7ql">Explore an interactive visualisation</a> of the words identified in the main 15 topics.</p>
+
+<h3 id="analysing-written-responses-to-qualitative-survey-questions">Analysing written responses to qualitative survey questions</h3>
+
+<p>Over the summer, a review of our Methodology divisions was undertaken and we were asked to provide a sentiment analysis from a survey of 120 staff. We found the majority of people like working in Methodology and find the work challenging.</p>
+
+<p>We used the same methods for this work as <a href="https://www.washingtonpost.com/posteverything/wp/2016/08/12/two-people-write-trumps-tweets-he-writes-the-angrier-ones/?utm_term=.b086dc08d9c5">this data scientist</a>, who discovered that 2 people write Donald Trump’s tweets and that he writes the angrier ones.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>Natural Language Processing is a growing area and we think there are opportunities for using these techniques in official statistics; either for producing new statistics or for improving operational processes such as coding.</p>
+
+<p>Our next steps are working with internal crime and health teams … watch this space!</p>
+
+<p>Can you think of any opportunities for analysing text in your work? We would love to hear examples of how these techniques are being applied! To share ideas, examples or chat about Natural Language Processing, contact <a href="mailto:karen.gask%40ons.gov.uk">Karen Gask</a> or our <a href="mailto:ons.big.data.project%40ons.gov.uk">Big Data team</a>.</p>
+
+<blockquote>
+  <p>The following blog post is written by <a href="https://twitter.com/GaskyK">Karen Gask</a>, Data Scientist, and was originally posted in the <a href="https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/">ONS Digital blog</a></p>
+</blockquote>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2016-11-07T00:00:00+00:00">November 07, 2016</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=The+%E2%80%98emotional%E2%80%99+side+of+data%20http%3A%2F%2Flocalhost%3A4000%2Femotional-side-of-data%2F" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Femotional-side-of-data%2F" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Femotional-side-of-data%2F" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Femotional-side-of-data%2F" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="http://localhost:4000/big-data-at-ons/" class="pagination--pager" title="Big Data at ONS
+">Previous</a>
+    
+    
+      <a href="http://localhost:4000/happy-campers/" class="pagination--pager" title="Happy campers: Using machine learning to identify caravans in Zoopla data
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/civil-service-live-better-use-of-data/" rel="permalink">Civil Servants get lessons in better use of data
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/happy-campers/" rel="permalink">Happy campers: Using machine learning to identify caravans in Zoopla data
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/big-data-at-ons/" rel="permalink">Big Data at ONS
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">My name is Jane Naylor and I’m Head of the Big Data team at the ONS. The team was established in January 2014 and brought together staff with a mixture of st...</p>
+  </article>
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/onsbigdata"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 The ONS Big Data Team. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+
+
+  </body>
+</html>

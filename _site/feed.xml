@@ -1,1 +1,183 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T13:13:30+01:00</updated><id>http://localhost:4000/</id><title type="html">ONS Big Data</title><subtitle>The ONS Big Data Team GitHub website.</subtitle><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T15:22:00+01:00</updated><id>http://localhost:4000/</id><title type="html">ONS Big Data</title><subtitle>The ONS Big Data Team GitHub website.</subtitle><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author><entry><title type="html">Civil Servants get lessons in better use of data</title><link href="http://localhost:4000/civil-service-live-better-use-of-data/" rel="alternate" type="text/html" title="Civil Servants get lessons in better use of data" /><published>2017-07-25T00:00:00+01:00</published><updated>2017-07-25T00:00:00+01:00</updated><id>http://localhost:4000/civil-service-live-better-use-of-data</id><content type="html" xml:base="http://localhost:4000/civil-service-live-better-use-of-data/">&lt;p&gt;&lt;img src=&quot;https://blog.ons.gov.uk/wp-content/uploads/sites/6/2017/12/civilservicelive-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With Civil Service Live over for another year, Owen Abbott, Head of ONS’s Big Data Team explains how the team’s attendance sparked a curiosity around data science.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To be a truly effective modern Civil Service, we can’t afford to stand still. We need to be more skilled, more connected, more inclusive, open to new ways of working, and constantly getting better at the job of advising the government and serving the public.”&lt;/p&gt;
+
+  &lt;p&gt;Sir Jeremy Heywood, Cabinet Secretary and Head of the Civil Service&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Over the last few weeks, thousands of civil servants have been participating in the government’s largest cross-department learning event &lt;a href=&quot;http://www.civilservicelive.com/&quot;&gt;Civil Service Live&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is an opportunity for people of all levels to learn, network and share best practice – with the ultimate goal of providing better public services.&lt;/p&gt;
+
+&lt;h3 id=&quot;improved-outcomes&quot;&gt;Improved outcomes&lt;/h3&gt;
+
+&lt;p&gt;One of the themes of the event was “improved outcomes” and as government departments began to realise the value of the data they hold, we thought it would be a good time to showcase the potential of data science to improve the impact on public services.&lt;/p&gt;
+
+&lt;p&gt;At each of the eight events, we delivered a session &lt;a href=&quot;https://blog.ons.gov.uk/wp-content/uploads/sites/6/2017/07/Government-Data-Science-Partnership-data-session-Civil-Service-Live-2017.pptx&quot;&gt;“making better use of data in decision making.&lt;/a&gt; The session involved representatives from ONS’s Big Data team and &lt;a href=&quot;http://datasciencecampus.ons.gov.uk/&quot;&gt;Data Science Campus &lt;/a&gt;(DSC) along with colleagues from the Government Digital Service and the Government Office for Science, under the collaborative initiatives of the &lt;a href=&quot;https://gds.blog.gov.uk/2017/07/20/building-capability-and-community-through-the-government-data-science-partnership/&quot;&gt;Government Data Science Partnership (GDSP&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Given that data science is a hot but fairly new topic for many civil servants, we kicked off with a basic explanation of data science using a &lt;a href=&quot;http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram&quot;&gt;Venn diagram &lt;/a&gt;to show how it brings together skills and technologies to extract useful insight from data&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ons.gov.uk/wp-content/uploads/sites/6/2017/12/Suitable-site-for-school.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+We demonstrated through a range of case studies where data science is currently being implemented across government to help tailor and prioritise interventions. This could mean predicting norovirus outbreaks through social media and enabling more efficient policy decisions such as where to build a school.&lt;/p&gt;
+
+&lt;p&gt;At each event we had a guest speaker who described data-science projects within their department. For instance, in London we heard from Defence Science and Technology Laboratory (DSTL) about their &lt;a href=&quot;https://www.datasciencechallenge.org/&quot;&gt;platform for data science competitions&lt;/a&gt; and in Cardiff Nigel Swier from ONS’s Big Data Team discussed how ONS is making better use of alternative data sources.&lt;/p&gt;
+
+&lt;h2&gt;#&lt;/h2&gt;
+
+&lt;h3 id=&quot;ethical-nature&quot;&gt;Ethical nature&lt;/h3&gt;
+
+&lt;p&gt;One interesting question that came out of the Cardiff event, prompted by the use of social media, was on the ethical nature of accessing data; just because you can should you? Head of ONS’s census Ian Cope was on hand to respond to this, highlighting the importance of the recently established&lt;a href=&quot;https://www.statisticsauthority.gov.uk/national-statistician/national-statisticians-data-ethics-advisory-committee/&quot;&gt; National Statistician’s Data Ethics Committee (NSDEC)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, Civil Service Live is a learning event, so it’s not just about what we are doing, but how we are doing it.&lt;/p&gt;
+
+&lt;p&gt;Over the last year, we have been steadily growing data-science capability across ONS and government to provide staff with the skills they need to realise the potential of an increased variety of data sources. With the launch of the DSC earlier this year, the capacity to build these skills has been given a boost.&lt;/p&gt;
+
+&lt;p&gt;During the talk we covered how GDSP is supporting civil servants to equip them with the data-science skills they need through a variety of learning pathways. These include the:&lt;/p&gt;
+
+&lt;p&gt;The GDSP is also supporting data scientists across government to deliver best practice by developing and disseminating data-science standards, guidance and frameworks.&lt;/p&gt;
+
+&lt;p&gt;As you can imagine there was an eagerness to learn more about the training opportunities, eligibility criteria and how certain professions in the statistical community can access the programmes as part of their continuing professional development (CPD). At the Birmingham event the majority of questions were around learning and development.&lt;/p&gt;
+
+&lt;h3 id=&quot;big-data&quot;&gt;Big data&lt;/h3&gt;
+
+&lt;p&gt;Independently, ONS has established a Data Science Learning Pathway, where staff have been provided with numerous opportunities to build their skills from the ground up. Through courses such as introduction to R, staff have gained programming skills using open-source software for manipulating “big data” and creating interesting visualisations.&lt;/p&gt;
+
+&lt;p&gt;Around 10 people have benefited from the Data Science Learning Academy (DSLA) mentoring scheme, which provides a pre-identified business problem or project that requires the application of data-science techniques. Trainees have the opportunity to learn new skills and develop a possible prototype for future real use. The data-science skills learned are also shared with work colleagues. Finally, a new&lt;a href=&quot;https://www.ons.gov.uk/news/news/uksfirstdataanalyticsapprenticesarriveatons&quot;&gt; Apprenticeship in Data Analytics &lt;/a&gt;has been launched that provides hands-on vocational training and opportunities within ONS for those interested in starting a career in data science.&lt;/p&gt;
+
+&lt;p&gt;Overall our attendance at Civil Service Live sparked a curiosity around data science, often described as a unicorn due to its mythical qualities!&lt;/p&gt;
+
+&lt;p&gt;Hopefully next year we will see a whole new suite of case studies where data science is driving the better use of data for better decisions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The following blog post is written by Owen Abbott, Head of ONS’s Big Data Team, and was originally posted in the &lt;a href=&quot;https://blog.ons.gov.uk/2017/07/25/civil-service-live-what-did-we-learn/&quot;&gt;ONS blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author><summary type="html"></summary></entry><entry><title type="html">Happy campers: Using machine learning to identify caravans in Zoopla data</title><link href="http://localhost:4000/happy-campers/" rel="alternate" type="text/html" title="Happy campers: Using machine learning to identify caravans in Zoopla data" /><published>2017-06-21T00:00:00+01:00</published><updated>2017-06-21T00:00:00+01:00</updated><id>http://localhost:4000/happy-campers</id><content type="html" xml:base="http://localhost:4000/happy-campers/">&lt;p&gt;&lt;img src=&quot;https://digitalblog.ons.gov.uk/wp-content/uploads/sites/9/2017/06/80a4240c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our Big Data team has published a &lt;a href=&quot;https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017&quot;&gt;report&lt;/a&gt; about collecting and using data from the property website Zoopla to identify the location of caravan homes. This information could help to make the census more efficient.&lt;/p&gt;
+
+&lt;p&gt;Caravan homes are important because they are recorded either inconsistently or not at all in different data sources. During the 2011 Census, when 85,000 such homes were counted, it was difficult to correctly count the number of people living in caravan parks, holiday sites and other leisure parks, and we spent a lot of time trying to establish the facts (such as whether the caravan park was for holiday or residential purposes).&lt;/p&gt;
+
+&lt;h2 id=&quot;why-use-data-from-property-websites&quot;&gt;&lt;strong&gt;Why use data from property websites?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Property websites such as Rightmove and Zoopla show a lot of information about properties including their location, number of bedrooms, type of property and descriptive information about the home. It could be useful for identifying a range of features such as whether the property is in a gated community (we may have difficulty in getting to the front door of properties) and caravan homes.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-we-do-to-identify-the-caravan-homes&quot;&gt;&lt;strong&gt;What did we do to identify the caravan homes?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;A limited amount of data about properties for sale or rent can be collected from Zoopla for free, by writing some code to obtain data from their Application Programming Interface (API). We collected data about 36,000 properties, around 500 of which were caravan homes.&lt;/p&gt;
+
+&lt;p&gt;We built different machine learning models to try to identify caravans in the data using information such as the price (caravan homes tend to be cheaper), number of bedrooms and whether certain phrases (such as “static caravan”) are in the property description. Some interesting oddities arose, such as large properties for sale that included a static caravan on their land, but overall we were able to identify the location of caravan homes with good accuracy.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;&lt;strong&gt;What’s next?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Since we did this piece of work ONS has acquired two much larger sets of Zoopla data. Using these, we’ll be redoing some of the &lt;a href=&quot;https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017&quot;&gt;above work&lt;/a&gt; (to make sure our model is robust). We will extend it to identify caravan homes used for holiday or residential purposes, gated communities and retirement properties.&lt;/p&gt;
+
+&lt;h2 id=&quot;obtain-the-code-we-used&quot;&gt;&lt;strong&gt;Obtain the code we used&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;It is important for us to make as much code openly available as possible. The code used to extract property data from the Zoopla API and the machine learning code used in the report published (both written in Python) are available on &lt;a href=&quot;https://github.com/ONSBigData/housing-websites&quot;&gt;the ONS Big Data team GitHub pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;contact-us&quot;&gt;&lt;strong&gt;Contact us&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We would also love to get your feedback on what we’ve done or for you to suggest further ways in which the methods or data could be used. Please do so by contacting &lt;a href=&quot;mailto:karen.gask%40ons.gov.uk&quot;&gt;Karen Gask&lt;/a&gt; or the &lt;a href=&quot;mailto:ons.big.data.project%40ons.gov.uk&quot;&gt;Big Data team&lt;/a&gt;. We’ve also been working on using satellite imagery to identify the location of caravan homes so we’ll be writing a blog about that soon.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The following blog post is written by [Karen Gask][https://twitter.com/GaskyK], Data Scientist, and was originally posted in the &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/&quot;&gt;ONS Digital blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author><summary type="html"></summary></entry><entry><title type="html">The ‘emotional’ side of data</title><link href="http://localhost:4000/emotional-side-of-data/" rel="alternate" type="text/html" title="The ‘emotional’ side of data" /><published>2016-11-07T00:00:00+00:00</published><updated>2016-11-07T00:00:00+00:00</updated><id>http://localhost:4000/emotional-side-of-data</id><content type="html" xml:base="http://localhost:4000/emotional-side-of-data/">&lt;p&gt;Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-natural-language-processing&quot;&gt;What is Natural Language Processing?&lt;/h2&gt;
+
+&lt;p&gt;Natural Language Processing can help us understand lots of text in an automated way, especially where the text might be so big that it might be infeasible for us to read it all. Some methods are aimed at differentiating between emotions while other methods are better for classifying text talking about different things or for retrieving the answer to a question.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-how-can-natural-language-processing-be-applied-in-official-statistics&quot;&gt;So how can Natural Language Processing be applied in official statistics?&lt;/h2&gt;
+
+&lt;p&gt;Here are some examples from our work:&lt;/p&gt;
+
+&lt;h3 id=&quot;classification-problems&quot;&gt;Classification problems&lt;/h3&gt;
+
+&lt;p&gt;It is important for Census Field Operations to know where people are living and where they are not. During the 2011 Census we repeatedly tried to contact people in properties which were actually vacant. If we can identify vacant properties in advance, we’ll save money.&lt;/p&gt;
+
+&lt;p&gt;We manually classified 500 descriptions of caravans for sale or rent from property websites (such as Rightmove or Zoopla) into whether they were for holiday or residential use. From that we could see which words were most correlated with being in a holiday or residential description. Unsurprisingly, the words most correlated with holiday caravans included “pool”, “bar”, “restaurant” and “beach” and we were able to classify about 90% of descriptions accurately based on what we found. We are working with the Census Transformation Programme at ONS to evaluate whether this approach can be used on a larger scale.&lt;/p&gt;
+
+&lt;h3 id=&quot;automated-thematic-analysis-of-text&quot;&gt;Automated thematic analysis of text&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.un.org/sustainabledevelopment/sustainable-development-goals/&quot;&gt;Sustainable Development Goals&lt;/a&gt; (SDGs) aim to end poverty, fight inequality and injustice, and tackle climate change by 2030. Goal 12 is to ensure sustainable consumption and production patterns. One of the indicators is “To encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle”. This is an area for which no official data is collected. The data science techniques we have developed could fill that gap.&lt;/p&gt;
+
+&lt;p&gt;We’ve built programs to automatically find sustainability reports on the websites of 100 of the UK’s largest companies and found that 59 out of 100 had sustainability reports. We then analysed the sustainability text on their websites and found that the focus of their efforts varied depending on the industrial sector of the company. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;construction companies are more likely to focus on their environmental policies&lt;/li&gt;
+  &lt;li&gt;the service sector is more likely to focus on charitable work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bl.ocks.org/AlessandraSozzi/raw/ce1ace56e4aed6f2d614ae2243aab5a5/#topic=0&amp;amp;lambda=1&amp;amp;term=https://goo.gl/NZH7ql&quot;&gt;Explore an interactive visualisation&lt;/a&gt; of the words identified in the main 15 topics.&lt;/p&gt;
+
+&lt;h3 id=&quot;analysing-written-responses-to-qualitative-survey-questions&quot;&gt;Analysing written responses to qualitative survey questions&lt;/h3&gt;
+
+&lt;p&gt;Over the summer, a review of our Methodology divisions was undertaken and we were asked to provide a sentiment analysis from a survey of 120 staff. We found the majority of people like working in Methodology and find the work challenging.&lt;/p&gt;
+
+&lt;p&gt;We used the same methods for this work as &lt;a href=&quot;https://www.washingtonpost.com/posteverything/wp/2016/08/12/two-people-write-trumps-tweets-he-writes-the-angrier-ones/?utm_term=.b086dc08d9c5&quot;&gt;this data scientist&lt;/a&gt;, who discovered that 2 people write Donald Trump’s tweets and that he writes the angrier ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Natural Language Processing is a growing area and we think there are opportunities for using these techniques in official statistics; either for producing new statistics or for improving operational processes such as coding.&lt;/p&gt;
+
+&lt;p&gt;Our next steps are working with internal crime and health teams … watch this space!&lt;/p&gt;
+
+&lt;p&gt;Can you think of any opportunities for analysing text in your work? We would love to hear examples of how these techniques are being applied! To share ideas, examples or chat about Natural Language Processing, contact &lt;a href=&quot;mailto:karen.gask%40ons.gov.uk&quot;&gt;Karen Gask&lt;/a&gt; or our &lt;a href=&quot;mailto:ons.big.data.project%40ons.gov.uk&quot;&gt;Big Data team&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The following blog post is written by &lt;a href=&quot;https://twitter.com/GaskyK&quot;&gt;Karen Gask&lt;/a&gt;, Data Scientist, and was originally posted in the &lt;a href=&quot;https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/&quot;&gt;ONS Digital blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author><summary type="html">Working in our Big Data team means working with large datasets and looking at a wider variety of data sources than in traditional statistical work. This includes data from images and from text. We have been exploring how to analyse and use such sources in the team. We have been learning Natural Language Processing techniques to improve our skills in text analysis and text mining. Here are a few ways we have been getting our hands dirty with this type of data.</summary></entry><entry><title type="html">Big Data at ONS</title><link href="http://localhost:4000/big-data-at-ons/" rel="alternate" type="text/html" title="Big Data at ONS" /><published>2016-03-23T00:00:00+00:00</published><updated>2016-03-23T00:00:00+00:00</updated><id>http://localhost:4000/big-data-at-ons</id><content type="html" xml:base="http://localhost:4000/big-data-at-ons/">&lt;p&gt;My name is Jane Naylor and I’m Head of the Big Data team at the ONS. The team was established in January 2014 and brought together staff with a mixture of statistical, methodological and IT backgrounds with an enthusiasm and interest in data science and data engineering.&lt;/p&gt;
+
+&lt;p&gt;The key aims of the team are to demonstrate the potential for using big data within official statistics, to investigate the methodological and technological issues and other challenges and to develop skills and capability within ONS.&lt;/p&gt;
+
+&lt;p&gt;We adopted a dual approach to this work; undertaking hands-on pilot work with new data sources, tools and technologies and also exploring collaborative and partnership opportunities with a range of different external partners.&lt;/p&gt;
+
+&lt;p&gt;I can’t possibly summarise everything that we have done over the past 2 years but hopefully this post will provide a high level overview of key activities to date.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What have we been working on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the last 2 years, the team have undertaken a number of pilots to demonstrate the potential benefits (reduced collection/production costs, improved quality, new types of outputs) and also tackle the challenges (statistical, technical, ethical, commercial) of the use of big data within the production of official statistics. These pilots have also allowed the team to develop new data science skills.&lt;/p&gt;
+
+&lt;p&gt;There are many different definitions of ‘big data’ but quite simply we have interpreted it as ‘alternative’ or ‘new forms’ of data. Official statistics are traditionally produced using survey, Census or administrative data – we focus on data sets that don’t fit within these 3 types. For example, to give you a flavour, we have undertaken research to try to answer the following questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can geo-located Twitter data provide new insights into population and mobility?&lt;/li&gt;
+  &lt;li&gt;Will data on utility usage provide a good indicator of vacant properties and hence allow us to be smarter about the way we conduct our Census or surveys, i.e. saving the tax payer money?&lt;/li&gt;
+  &lt;li&gt;Rather than collect price data (that feed through to our economic outputs) by manually visiting stores, isn’t it more efficient and can’t we collect more data more frequently if we scrape prices from supermarket websites?&lt;/li&gt;
+  &lt;li&gt;Can Oyster card data from tube travel in London be used to understand travel and commuting patterns?&lt;/li&gt;
+  &lt;li&gt;What additional intelligence about properties in a certain area can we automatically gather from housing websites such as Zoopla that will help us when we undertake a survey or Census?&lt;/li&gt;
+  &lt;li&gt;By analysing the difference between the number of electricity meters in an area with the number of addresses can we identify areas where properties have been demolished, there has been significant development or where there are large residential establishments?&lt;/li&gt;
+  &lt;li&gt;How can mobile phone data be used to produce statistics for the population and population mobility? We haven’t actually had access to any data here but we have learnt a lot about the challenges of trying to do so!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s important to remember that in order to produce statistics using big data sources we are only interested in trends or patterns that can be observed at an aggregate level, not personal data about individuals. However, we recognise that accessing data from the private sector or from the internet may raise concerns around security and privacy. We have therefore only accessed publically available, anonymous or aggregated data within these pilots, All of our work fully complies with legal requirements and our obligations under the Code of Practice for Official Statistics and aspects of our work has been scrutinised by the National Statisticians Data Ethics Committee.&lt;/p&gt;
+
+&lt;p&gt;As well as exploring new data sets we have also investigated and developed new methods in order to process and analyse the data. We have used machine learning, clustering algorithms, text string analysis, data visualisation methods as well as traditional statistical approaches. In addition, the team are using new (for ONS), mostly open source technologies; we are programming in languages such as R and Python, processing and storing data using technologies such as MongoDB, Neo4j, Spark and Cassandra.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who have we been working with?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We recognise that data science is multi-disciplinary and multi-institutional and we have been working with a range of different external organisations to learn from their experience and expertise, to coordinate efforts, to work collaboratively and to acquire data:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Government: We are key players (along with the Cabinet Office, Government Digital Service and Government Office for Science) in the virtual Government Data Science Partnership that was established to explore the opportunities for data science in Government and to embed a data-driven approach within professions and departments. We have also engaged with specific departments to share experiences and expertise.&lt;/li&gt;
+  &lt;li&gt;Academia: Data science is a growing discipline within academia – recognising this we have worked collaboratively with a number of different universities and academic bodies.&lt;/li&gt;
+  &lt;li&gt;International bodies: We are contributing to international initiatives in this area such as a UNECE Big Data Project and a Eurostat Big Data Taskforce, working, coordinating and sharing expertise with other National Statistical Institutes who are undertaking similar work to us and addressing similar challenges.&lt;/li&gt;
+  &lt;li&gt;Commercial organisation: In some cases the engagement is focused on acquiring/purchasing data for research purposes in other cases to share experiences and understand how data science is impacting on their business.&lt;/li&gt;
+  &lt;li&gt;Privacy groups: Many of the data sets we are exploring raise ethical and privacy issues. At ONS we are committed to protecting the confidentiality of all the information that we hold and addressing issues around ethics and privacy. We have therefore engaged with a number of privacy groups and ethical experts to seek advice and feedback.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The work of the Big Data team continues. Many of the pilots described above will be taken forward and developed further over the next year. We will also be taking on new pilots and identifying new areas where big data can make an impact on official statistics. In particular the recent announcement of more investment in data science at the ONS following the &lt;a href=&quot;https://www.gov.uk/government/publications/independent-review-of-uk-economic-statistics-terms-of-reference/independent-review-of-uk-economic-statistics-terms-of-reference&quot;&gt;&lt;strong&gt;Bean Review&lt;/strong&gt;&lt;/a&gt; will bring us lots of new challenges and opportunities.&lt;/p&gt;
+
+&lt;p&gt;A key challenge will be to move some of these pilots from research into implementation – using the new data sources, tools and techniques within the production of an official statistic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Want to know more?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More detailed information about a lot of the work covered in this post can be found on our &lt;a href=&quot;http://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject&quot;&gt;&lt;strong&gt;webpage&lt;/strong&gt;&lt;/a&gt;. Please also look for future posts about the work of the team or email us directly, ons.big.data.project@ons.gsi.gov.uk.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This post was originally posted in the &lt;a href=&quot;https://gss.civilservice.gov.uk/blog/2016/03/big-data-at-ons/&quot;&gt;GSS blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>ONS Big Data Team</name><email>ons.big.data.project@ons.gsi.gov.uk</email><uri>https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject</uri></author><summary type="html">My name is Jane Naylor and I’m Head of the Big Data team at the ONS. The team was established in January 2014 and brought together staff with a mixture of statistical, methodological and IT backgrounds with an enthusiasm and interest in data science and data engineering.</summary></entry></feed>
