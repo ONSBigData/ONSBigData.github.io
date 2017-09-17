@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : &name "ONS Big Data" # &name is a YAML anchor which can be *referenced later
+title                    : "ONS Big Data"
 title_separator          : "-"
 name                     : "The ONS Big Data Team"
 description              : "The ONS Big Data Team GitHub website."
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "ONS Big Data Team" 
   avatar           : "/assets/images/ascii_logo.png"
   bio              : "I am an amazing person."
   location         : "UK"
