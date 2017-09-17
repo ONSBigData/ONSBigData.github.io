@@ -2,7 +2,7 @@
 title: "Published work"
 layout: single
 permalink: /publications/
-last_modified_at: 2017-09-14T14:58:13+01:00
+last_modified_at: 2017-09-17T14:58:13+01:00
 ---
 
 ## Methodology working papers
