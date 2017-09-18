@@ -43,7 +43,7 @@ Our next steps are working with internal crime and health teams … watch this s
 
 Can you think of any opportunities for analysing text in your work? We would love to hear examples of how these techniques are being applied! To share ideas, examples or chat about Natural Language Processing, contact [Karen Gask][5] or our [Big Data team][6].
 
-> The following blog post is written by [Karen Gask][1], Data Scientist, and was originally posted in the [ONS Digital blog](https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/)
+> Written by [Karen Gask][1], Data Scientist, and originally posted in the [ONS Digital blog](https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/)
 
 
 [1]: https://twitter.com/GaskyK

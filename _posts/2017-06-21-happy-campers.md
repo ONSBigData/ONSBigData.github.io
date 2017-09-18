@@ -31,7 +31,7 @@ It is important for us to make as much code openly available as possible. The co
 
 We would also love to get your feedback on what we've done or for you to suggest further ways in which the methods or data could be used. Please do so by contacting [Karen Gask][4] or the [Big Data team][5]. We've also been working on using satellite imagery to identify the location of caravan homes so we'll be writing a blog about that soon.
 
-> The following blog post is written by [Karen Gask][https://twitter.com/GaskyK], Data Scientist, and was originally posted in the [ONS Digital blog](https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/)
+> Written by [Karen Gask][https://twitter.com/GaskyK], Data Scientist, and originally posted in the [ONS Digital blog](https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/)
 
 [1]: https://digitalblog.ons.gov.uk/wp-content/uploads/sites/9/2017/06/80a4240c.png
 [2]: https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017

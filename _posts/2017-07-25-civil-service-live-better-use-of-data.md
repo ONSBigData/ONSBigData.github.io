@@ -27,8 +27,6 @@ We demonstrated through a range of case studies where data science is currently 
 
 At each event we had a guest speaker who described data-science projects within their department. For instance, in London we heard from Defence Science and Technology Laboratory (DSTL) about their [platform for data science competitions][8] and in Cardiff Nigel Swier from ONS's Big Data Team discussed how ONS is making better use of alternative data sources.
 
-###
-
 ### Ethical nature
 
 One interesting question that came out of the Cardiff event, prompted by the use of social media, was on the ethical nature of accessing data; just because you can should you? Head of ONS's census Ian Cope was on hand to respond to this, highlighting the importance of the recently established[ National Statistician's Data Ethics Committee (NSDEC)][9].
@@ -53,7 +51,7 @@ Overall our attendance at Civil Service Live sparked a curiosity around data sci
 
 Hopefully next year we will see a whole new suite of case studies where data science is driving the better use of data for better decisions.
 
-> The following blog post is written by Owen Abbott, Head of ONS's Big Data Team, and was originally posted in the [ONS blog](https://blog.ons.gov.uk/2017/07/25/civil-service-live-what-did-we-learn/)
+> Written by Owen Abbott, Head of ONS's Big Data Team, and originally posted in the [ONS blog](https://blog.ons.gov.uk/2017/07/25/civil-service-live-what-did-we-learn/)
 
 
 [1]: https://blog.ons.gov.uk/wp-content/uploads/sites/6/2017/12/civilservicelive-1.jpg

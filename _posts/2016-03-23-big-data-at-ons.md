@@ -48,7 +48,7 @@ A key challenge will be to move some of these pilots from research into implemen
 
 More detailed information about a lot of the work covered in this post can be found on our [**webpage**][2]. Please also look for future posts about the work of the team or email us directly, ons.big.data.project@ons.gsi.gov.uk.
 
-> This post was originally posted in the [GSS blog](https://gss.civilservice.gov.uk/blog/2016/03/big-data-at-ons/)
+> Originally posted in the [GSS blog](https://gss.civilservice.gov.uk/blog/2016/03/big-data-at-ons/)
 
 [1]: https://www.gov.uk/government/publications/independent-review-of-uk-economic-statistics-terms-of-reference/independent-review-of-uk-economic-statistics-terms-of-reference
 [2]: http://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject
