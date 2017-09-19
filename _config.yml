@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "ONS Big Data Team" 
+  name             : "ONS Big Data Team"
   avatar           : "/assets/images/ascii_logo.png"
-  bio              : "I am an amazing person."
+  bio              : "Lorem ipsum"
   location         : "UK"
   email            : ons.big.data.project@ons.gsi.gov.uk
   uri              : "https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject"
