@@ -1,5 +1,6 @@
 ---
 title: 'Happy campers: Using machine learning to identify caravans in Zoopla data'
+excerpt: 'Using machine learning to extract holiday homes in Zoopla data'
 ---
 
 
