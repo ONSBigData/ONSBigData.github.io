@@ -2,7 +2,7 @@
 title: "Published work"
 layout: single
 permalink: /publications/
-last_modified_at: 2017-09-18T14:58:13+01:00
+last_modified_at: 2017-09-21T14:58:13+01:00
 ---
 
 ## Methodology working papers
@@ -15,10 +15,12 @@ last_modified_at: 2017-09-18T14:58:13+01:00
 * **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites">
   <i class="fa fa-fw fa-github" aria-hidden="true"></i>
 </a>
+
 * **Williams S.** (2017) [Statistical uses for mobile phone data - literature review](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno8statisticalusesformobilephonedataliteraturereview)
 * **Sozzi A.** (2016) [Comparing counts of electricity meters and addresses by postcode in England and Wales](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/comparingcountsofelectricitymetersandaddressesbypostcodeinenglandandwales.pdf)
 * **Gask K., Williams S.** (2015) [Analysing low electricity consumption using DECC data](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/analysinglowelectricityconsumptionusingdeccdata_tcm77-418326.pdf)
 * **Gask K., Williams S.** (2015) <a href="https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/comparingtravelflowsbetween2011censusandoystercarddata_tcm77-408826%281%29.pdf">Comparing travel flows between 2011 Census and Oyster card data</a>
+
 * **Abbott O.** (2014) [ONS Innovation Laboratories](http://webarchive.nationalarchives.gov.uk/20160111030849/http:/www.ons.gov.uk/ons/guide-method/method-quality/specific/gss-methodology-series/ons-working-paper-series/mwp1-ons-innovation-laboratories.pdf)
 
 
