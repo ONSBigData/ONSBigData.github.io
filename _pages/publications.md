@@ -49,7 +49,17 @@ last_modified_at: 2017-09-21T14:58:13+01:00
   <i class="fa fa-fw fa-github" aria-hidden="true"></i>
 </a>
 * **Naylor J.**, **Swier N.**, **Williams S.** (IAOS 2016 Conference paper) Estimating population mobility using big data sources - the benefits and the challenges
-* **Naylor J.**, **Swier N.**, **Williams S.** (NTTS 2015 Conference paper) [The ONS Big Data Project](https://ec.europa.eu/eurostat/cros/system/files/no 965.docx)
+* **Naylor J.**, **Swier N.**, **Williams S.** (NTTS 2015 Conference paper) [The ONS Big Data Project](https://ec.europa.eu/eurostat/cros/system/files/no965.docx)
+* **Chatzoglou C.**, **Manassis T.**, **Gammon S.**, **Swier N.** (GSS Methodology Symposium paper) [Use of graph databases to improve the management and quality of linked data](https://gss.civilservice.gov.uk/wp-content/uploads/2016/07/1.4.2-Christos-Chatzoglou-Use-of-graph-databases-to-improve-the-management-and-quality-of-linked-data.docx)
+
+## Embarrassing YouTube clips of us
+
+* [Jane Naylor at Data for Policy, 2015](https://www.youtube.com/watch?v=8kpksT_55Tg)
+* [Nigel Swier at Data for Policy, 2015](https://www.youtube.com/watch?v=CDDLN0wKK5A)
+* [Tom Hunter-Smith at Data for POlicy 2015](https://www.youtube.com/watch?v=ZZ2-WtS3RyM)
+* [Owen Abbott at Central Government, Business and Technology conference, 2016](https://www.youtube.com/watch?v=VspAIF3OEEs)
+
+
 
 <br>
 <br>
