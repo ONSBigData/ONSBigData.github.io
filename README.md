@@ -75,7 +75,7 @@ When you are happy with the changes commit your changes and push them to GitHub.
 
 
 ## How to modify this website
-For a more conplete guide on how the website is structured refer to [the theme webisite][2]. This section covers the basics you might want to do to this website.
+For a more conplete guide on how the website is structured refer to [the theme website][2]. This section covers the basics you might want to do to modify this website.
 
 ### The About Page
 To modify the content of the publication page you can simply edit the markdown file ```_pages/home.md```
