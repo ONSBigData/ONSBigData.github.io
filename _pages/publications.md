@@ -11,6 +11,7 @@ last_modified_at: 2017-09-18T14:58:13+01:00
 * **Williams S., Sozzi A.** (Forthcoming) Comparing densities of mobile cell towers with population estimates <a href="https://github.com/ONSBigData/OpencellID-analysis">
   <i class="fa fa-fw fa-github" aria-hidden="true"></i>
 </a>
+
 * **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites">
   <i class="fa fa-fw fa-github" aria-hidden="true"></i>
 </a>
