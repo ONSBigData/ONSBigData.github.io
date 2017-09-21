@@ -23,6 +23,7 @@ last_modified_at: 2017-09-18T14:58:13+01:00
 
 ## Government Statistical Service Methodology series
 
+* **Chatzoglou C.**, **Manassis T.**, **Gammon S.**, **Swier N.** (2016) [Use of Graph Databases to Improve the Management and Quality of Linked Data](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjtwNSp7tbVAhUKL8AKHRDZC_gQFggpMAE&url=https%3A%2F%2Fgss.civilservice.gov.uk%2Fwp-content%2Fuploads%2F2016%2F07%2F1.4.2-Christos-Chatzoglou-Use-of-graph-databases-to-improve-the-management-and-quality-of-linked-data.docx&usg=AFQjCNFbzEUtRpenTud0cUXwmsHrCCbOQA)
 * **Williams S.**, **Gask K.** (2015) [Modelling sample data from smart type electricity meters to assess potential within official statistics](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/modellingsampledatafromsmarttypeelectricitymeterstoassesspotentialwithinofficialstatistics_tcm77-408756%281%29.pdf)
 * **Swier N.**, **Komarniczky B.**, **Clapperton B.** (2015) [Using geolocated Twitter traces to infer residence and mobility](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/usinggeolocatedtwittertracestoinferresidenceandmobility.pdf) <a href="https://github.com/ONSBigData/ONS_Twitter">
   <i class="fa fa-fw fa-github" aria-hidden="true"></i>
