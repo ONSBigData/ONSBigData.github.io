@@ -56,7 +56,7 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 
 * [Jane Naylor at Data for Policy, 2015](https://www.youtube.com/watch?v=8kpksT_55Tg)
 * [Nigel Swier at Data for Policy, 2015](https://www.youtube.com/watch?v=CDDLN0wKK5A)
-* [Tom Hunter-Smith at Data for POlicy 2015](https://www.youtube.com/watch?v=ZZ2-WtS3RyM)
+* [Tom Hunter-Smith at Data for Policy, 2015](https://www.youtube.com/watch?v=ZZ2-WtS3RyM)
 * [Owen Abbott at Central Government, Business and Technology conference, 2016](https://www.youtube.com/watch?v=VspAIF3OEEs)
 
 
