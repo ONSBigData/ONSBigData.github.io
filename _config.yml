@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "ONS Big Data Team"
   avatar           : "/assets/images/ascii_logo.png"
-  bio              : "Lorem ipsum"
+  bio              : "Data Science for Official Statistics"
   location         : "UK"
   email            : ons.big.data.project@ons.gsi.gov.uk
   uri              : "https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject"
