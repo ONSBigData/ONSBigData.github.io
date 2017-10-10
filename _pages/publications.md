@@ -35,7 +35,10 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 ## Big Data European Statistical System Network (ESSnet Big Data)
 * [ESSnet WP1 Web-scraping job vacancies wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP1_Webscraping_job_vacancies)
 * [ESSnet WP2 Web-scraping enterprise statistics wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP2_Webscraping_enterprise_characteristics)
+* [ESSnet WP5 Mobile phone data wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP5_Mobile_phone_data)
+* [ESSnet WP7 Multiple Domains wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP7_Multiple_domains)
 * [ESSNet pilot report on web scraping for job vacancy statistics](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/2/20/Deliverable_1_3_main_report_final_1.0.pdf) Nigel Swier, Frantisek Hajnovic (ONS, UK) Ingegerd Jansson, Dan Wu (SCB, Sweden) Boro Nikic (SURS, Slovenia) Christina Pierrakou (ELSTAT, Greece) Martina Rengers (DESTATIS, Germany), August 2017
+* [ESSNet Google Trends as a source for measuring sentiment and personal well-being](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/e/eb/Google_trends_wellbeing.docx) Nigel Swier, September 2016
 
 ## Other published papers and work
 
@@ -44,7 +47,7 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 * **Sozzi A.** (NTTS 2017 Conference paper) [Measuring Sustainability Reporting using Web Scraping and Natural Language Processing](https://ec.europa.eu/eurostat/cros/ntts2017programme/data/x_abstracts/x_abstract_36.docx) <a href="https://github.com/ONSBigData/Measuring-Sustainability-Reporting"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Naylor J.**, **Swier N.**, **Williams S.** (IAOS 2016 Conference paper) Estimating population mobility using big data sources - the benefits and the challenges
 * **Naylor J.**, **Swier N.**, **Williams S.** (NTTS 2015 Conference paper) [The ONS Big Data Project](https://ec.europa.eu/eurostat/cros/system/files/no965.docx)
-* **Chatzoglou C.**, **Manassis T.**, **Gammon S.**, **Swier N.** (GSS Methodology Symposium paper) [Use of graph databases to improve the management and quality of linked data](https://gss.civilservice.gov.uk/wp-content/uploads/2016/07/1.4.2-Christos-Chatzoglou-Use-of-graph-databases-to-improve-the-management-and-quality-of-linked-data.docx)
+* **Chatzoglou C.**, **Manassis T.**, **Gammon S.**, **Swier N.** (2016 GSS Methodology Symposium paper) [Use of graph databases to improve the management and quality of linked data](https://gss.civilservice.gov.uk/wp-content/uploads/2016/07/1.4.2-Christos-Chatzoglou-Use-of-graph-databases-to-improve-the-management-and-quality-of-linked-data.docx)
 
 ## Embarrassing YouTube clips of us
 
