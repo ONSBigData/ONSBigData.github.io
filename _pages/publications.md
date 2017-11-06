@@ -26,6 +26,8 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 </a>
 
 ## Office for National Statistics papers
+
+* **Williams S.**, **Weakley S.** (2017) [Research Outputs: Using mobile phone data to estimate commuting flows](https://www.ons.gov.uk/census/censustransformationprogramme/administrativedatacensusproject/administrativedatacensusresearchoutputs/populationcharacteristics/researchoutputsusingmobilephonedatatoestimatecommutingflows)
 * **Metcalfe E.**, **Flower T.**, **Lewis T.**, **Mayhew M.** **Rowland E.** (2016) [Research indices using web scraped price data: clustering large datasets into price indices (CLIP)](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/researchindicesusingwebscrapeddatamay2016final002.pdf)
 * **Breton R.**, **Flower T.**, **Mayhew M.**, **Metcalfe E.**, **Milliken N.**, **Payne C.**, **Smith T.**, **Winton J.**, **Woods A.** (2016) [Research indices using web-scraped data](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/webscrapeddataextremepricechanges_tcm77-415882.pdf)
 * **Beeson J.**, (2015) [Web scraped data - extreme price changes](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/webscrapeddataextremepricechanges_tcm77-415882.pdf)
