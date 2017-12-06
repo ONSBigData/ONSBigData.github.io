@@ -7,6 +7,7 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 
 **A list of all the Big Data Teams published work.**
 **Recently added publications are marked with a :star:**
+Please [contact us](ons.big.data.project@ons.gsi.gov.uk) if you would like more information about any of the work we have done or are doing!
 
 ## Methodology working papers
 
