@@ -49,6 +49,7 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 ## Other published papers and work
 
 * :star: **Swier N.** (ISI 2017 Conference paper) [How should web scraping be organised for official statistics?](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/ISI%202017%20paper%20v1.1.pdf)
+* :star: **Lewis, E.** (2017, MSc Dissertation, University of Cardiff) [Using open source data to measure national wellbeing](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/Dissertation.pdf)
 * **Abbott O.**, **Lee P.**, **Upson M.**, **Gregory M.**, **Duhaney D.** (Statistical Data Science conference 2017 Conference paper) Blending Data Science and statistics across government - Forthcoming
 * **Sozzi A.** (NTTS 2017 Conference paper) [Measuring Sustainability Reporting using Web Scraping and Natural Language Processing](https://ec.europa.eu/eurostat/cros/ntts2017programme/data/x_abstracts/x_abstract_36.docx) <a href="https://github.com/ONSBigData/Measuring-Sustainability-Reporting"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Naylor J.**, **Swier N.**, **Williams S.** (IAOS 2016 Conference paper) [Estimating population mobility using big data sources - the benefits and the challenges](http://www.iaos2016.ae/uploadfiles/0059db89-1029-47cc-9468-7d3fb7b3c96b___jane%20naylor%20paper.pdf) [Slides](http://www.iaos2016.ae/uploadfiles/0f0ef709-fc0e-4359-9a0a-87dec82c6622___jane%20naylor%20presentation.pdf)
