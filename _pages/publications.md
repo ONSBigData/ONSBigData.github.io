@@ -46,6 +46,7 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 * [ESSnet WP5 Mobile phone data wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP5_Mobile_phone_data)
 * [ESSnet WP7 Multiple Domains wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP7_Multiple_domains)
 * [ESSNet pilot report on web scraping for job vacancy statistics](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/2/20/Deliverable_1_3_main_report_final_1.0.pdf) Nigel Swier, Frantisek Hajnovic (ONS, UK) Ingegerd Jansson, Dan Wu (SCB, Sweden) Boro Nikic (SURS, Slovenia) Christina Pierrakou (ELSTAT, Greece) Martina Rengers (DESTATIS, Germany), August 2017
+* [ESSNet WP7 pilot report: Social media sentiment on events and links with well-being](https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study/blob/master/Final_doc.pdf) Sozzi, A., Morris, C., Brett, K., Gask K. and Swier, N. <a href="https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * [ESSNet Google Trends as a source for measuring sentiment and personal well-being](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/e/eb/Google_trends_wellbeing.docx) Nigel Swier, September 2016
 
 ## Other published papers and work
