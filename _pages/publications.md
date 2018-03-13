@@ -12,7 +12,8 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Methodology working papers
 
-* **Spakulova I.** (Forthcoming) Use of satellite imagery to identify caravans
+* :star: **Snow M.** (Forthcoming 2018) Unsupervised Document Clustering with Cluster Topic Identification
+* :star: **Spakulova I.** (Forthcoming April 2018) Use of satellite imagery to identify caravans
 * **Williams S., Sozzi A.** (2017) [Comparing densities of mobile cell towers with population estimates](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber13comparingthedensityofmobilephonecelltowerswithpopulationestimates) <a href="https://github.com/ONSBigData/OpencellID-analysis"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Williams S.** (2017) [Statistical uses for mobile phone data - literature review](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno8statisticalusesformobilephonedataliteraturereview)
@@ -60,8 +61,9 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 * **Naylor J.**, **Swier N.**, **Williams S.** (NTTS 2015 Conference paper) [The ONS Big Data Project](https://ec.europa.eu/eurostat/cros/system/files/no965.docx)
 * **Chatzoglou C.**, **Manassis T.**, **Gammon S.**, **Swier N.** (2016 GSS Methodology Symposium paper) [Use of graph databases to improve the management and quality of linked data](https://gss.civilservice.gov.uk/wp-content/uploads/2016/07/1.4.2-Christos-Chatzoglou-Use-of-graph-databases-to-improve-the-management-and-quality-of-linked-data.docx)
 
-## Embarrassing YouTube clips of us
+## Videos of us!
 
+* :star: (Forthcoming) [Owen Abbott keynote 'Beyond the traditional - Data Science in Official Statistics' LIDA Seminar Series](https://lida.leeds.ac.uk/event/beyond-traditional-big-data-official-statistics/)
 * [Owen Abbott interviewed at Central Government, Business and Technology conference, 2016](https://www.youtube.com/watch?v=VspAIF3OEEs)
 * [Jane Naylor presenting at the RSS Conference, 2015](https://www.youtube.com/watch?v=gqRkEt4szpg)
 * [Jane Naylor interviewed at Data for Policy, 2015](https://www.youtube.com/watch?v=8kpksT_55Tg)
