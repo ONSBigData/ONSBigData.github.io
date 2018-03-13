@@ -33,8 +33,8 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Office for National Statistics papers
 
-* :star: **Williams S.**, **Weakley S.** (2017) [Research Outputs: Using mobile phone data to estimate commuting flows](https://www.ons.gov.uk/census/censustransformationprogramme/administrativedatacensusproject/administrativedatacensusresearchoutputs/populationcharacteristics/researchoutputsusingmobilephonedatatoestimatecommutingflows)
-* :star: **Bhardwaj H.**, **Flower T.**, **Lee P.**, **Mayhew M.** (August 2017) [Research indices using web scraped price data: August 2017 update](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/august2017update)
+* **Williams S.**, **Weakley S.** (2017) [Research Outputs: Using mobile phone data to estimate commuting flows](https://www.ons.gov.uk/census/censustransformationprogramme/administrativedatacensusproject/administrativedatacensusresearchoutputs/populationcharacteristics/researchoutputsusingmobilephonedatatoestimatecommutingflows)
+* **Bhardwaj H.**, **Flower T.**, **Lee P.**, **Mayhew M.** (August 2017) [Research indices using web scraped price data: August 2017 update](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/august2017update)
 * **Metcalfe E.**, **Flower T.**, **Lewis T.**, **Mayhew M.**, **Rowland E.** (2016) [Research indices using web scraped price data: clustering large datasets into price indices (CLIP)](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/researchindicesusingwebscrapeddatamay2016final002.pdf)
 * **Breton R.**, **Flower T.**, **Mayhew M.**, **Metcalfe E.**, **Milliken N.**, **Payne C.**, **Smith T.**, **Winton J.**, **Woods A.** (2016) [Research indices using web-scraped data](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/webscrapeddataextremepricechanges_tcm77-415882.pdf)
 * **Beeson J.**, (2015) [Web scraped data - extreme price changes](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/webscrapeddataextremepricechanges_tcm77-415882.pdf)
@@ -52,8 +52,8 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Other published papers and work
 
-* :star: **Swier N.** (ISI 2017 Conference paper) [How should web scraping be organised for official statistics?](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/ISI%202017%20paper%20v1.1.pdf)
-* :star: **Lewis, E.** (2017, MSc Dissertation, University of Cardiff) [Using open source data to measure national wellbeing](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/Dissertation.pdf)
+* **Swier N.** (ISI 2017 Conference paper) [How should web scraping be organised for official statistics?](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/ISI%202017%20paper%20v1.1.pdf)
+* **Lewis, E.** (2017, MSc Dissertation, University of Cardiff) [Using open source data to measure national wellbeing](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/Dissertation.pdf)
 * **Abbott O.**, **Lee P.**, **Upson M.**, **Gregory M.**, **Duhaney D.** (Statistical Data Science conference 2017 Conference paper) Blending Data Science and statistics across government - Forthcoming
 * **Sozzi A.** (NTTS 2017 Conference paper) [Measuring Sustainability Reporting using Web Scraping and Natural Language Processing](https://ec.europa.eu/eurostat/cros/ntts2017programme/data/x_abstracts/x_abstract_36.docx) <a href="https://github.com/ONSBigData/Measuring-Sustainability-Reporting"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Naylor J.**, **Swier N.**, **Williams S.** (IAOS 2016 Conference paper) [Estimating population mobility using big data sources - the benefits and the challenges](http://www.iaos2016.ae/uploadfiles/0059db89-1029-47cc-9468-7d3fb7b3c96b___jane%20naylor%20paper.pdf) [Slides](http://www.iaos2016.ae/uploadfiles/0f0ef709-fc0e-4359-9a0a-87dec82c6622___jane%20naylor%20presentation.pdf)
