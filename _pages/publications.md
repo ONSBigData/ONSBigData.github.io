@@ -33,6 +33,7 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Office for National Statistics papers
 
+* :star: **Greenaway, M.** (2018) [ONS Web-scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/onsdatapolicies/howwecollectdata/webscrapingpolicy)
 * **Williams S.**, **Weakley S.** (2017) [Research Outputs: Using mobile phone data to estimate commuting flows](https://www.ons.gov.uk/census/censustransformationprogramme/administrativedatacensusproject/administrativedatacensusresearchoutputs/populationcharacteristics/researchoutputsusingmobilephonedatatoestimatecommutingflows)
 * **Bhardwaj H.**, **Flower T.**, **Lee P.**, **Mayhew M.** (August 2017) [Research indices using web scraped price data: August 2017 update](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/august2017update)
 * **Metcalfe E.**, **Flower T.**, **Lewis T.**, **Mayhew M.**, **Rowland E.** (2016) [Research indices using web scraped price data: clustering large datasets into price indices (CLIP)](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/researchindicesusingwebscrapeddatamay2016final002.pdf)
