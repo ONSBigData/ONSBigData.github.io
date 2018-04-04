@@ -64,7 +64,7 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Videos of us!
 
-* :star: (Forthcoming) [Owen Abbott keynote 'Beyond the traditional - Data Science in Official Statistics' LIDA Seminar Series](https://lida.leeds.ac.uk/event/beyond-traditional-big-data-official-statistics/)
+* :star: [Owen Abbott keynote 'Beyond the traditional - Data Science in Official Statistics' LIDA Seminar Series](https://lida.leeds.ac.uk/event/beyond-traditional-big-data-official-statistics/)
 * [Owen Abbott interviewed at Central Government, Business and Technology conference, 2016](https://www.youtube.com/watch?v=VspAIF3OEEs)
 * [Jane Naylor presenting at the RSS Conference, 2015](https://www.youtube.com/watch?v=gqRkEt4szpg)
 * [Jane Naylor interviewed at Data for Policy, 2015](https://www.youtube.com/watch?v=8kpksT_55Tg)
