@@ -140,7 +140,7 @@ As an example:
 python3 html_to_md_post.py "https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/" "Happy campers: Using machine learning to identify caravans in Zoopla data" "2017-06-21-happy-campers.md"
 ```
 After running this script a new ```.md``` file will be generated in the ```_posts``` folder. You can open the new generated file and check that all links and markdown titles have been generated correctly.
-The script uses the [FUCK YEAH MARKDOWN][6] API service to convert the HTML URL in a markdown file.
+The script uses [this][6] API service to convert the HTML URL in a markdown file.
 
 
 Finally do step [2.][5] and [3.][5] (is not compulsory, but the excerpt is not generated automatically so you need to add it manually) as before for the post from scratch.
