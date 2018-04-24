@@ -12,8 +12,8 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Methodology working papers
 
-* :star: **Snow M.** (Forthcoming 2018) Unsupervised Document Clustering with Cluster Topic Identification
 * :star: **Spakulova I.** (Forthcoming April 2018) Use of satellite imagery to identify caravans
+* :star: **Snow M.** (2018) [Unsupervised Document Clustering with Cluster Topic Identification](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesnumber14unsuperviseddocumentclusteringwithclustertopicidentification) <a href="https://github.com/ONSBigData/Clustering_paper"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Williams S., Sozzi A.** (2017) [Comparing densities of mobile cell towers with population estimates](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber13comparingthedensityofmobilephonecelltowerswithpopulationestimates) <a href="https://github.com/ONSBigData/OpencellID-analysis"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Williams S.** (2017) [Statistical uses for mobile phone data - literature review](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno8statisticalusesformobilephonedataliteraturereview)
