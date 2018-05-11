@@ -7,7 +7,7 @@ last_modified_at: 2017-09-21T14:58:13+01:00
 
 **A list of all the Big Data Teams published work.**
 **Recently added publications are marked with a :star:**
-**Code repository links where available via Github symbol <a href="https://github.com/ONSBigData"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a> **
+**Code repository links where available via ** <a href="https://github.com/ONSBigData"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a> 
 
 Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like more information about any of the work we have done or are doing!
 
