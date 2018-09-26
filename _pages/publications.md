@@ -58,6 +58,8 @@ Please contact us at <ons.big.data.project@ons.gsi.gov.uk> if you would like mor
 
 ## Other published papers and work
 
+* :star: **Gask K.** (RSS 2018 Conference paper) [Statistics on jobs, businesses and people – where data science is adding value](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf)
+* :star: **Rowland, E.**, **Lawrence, J.**, **Davis, N.**, **Fitzroy, A.**, **Vince, B.**, **Elliot, D.** [Traffic flow as an early indicator for GDP growth](https://onsbigdata.github.io/RSS-2018/#/) <a href="https://github.com/ONSBigData/RSS-2018"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Swier N.** (ISI 2017 Conference paper) [How should web scraping be organised for official statistics?](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/ISI%202017%20paper%20v1.1.pdf)
 * **Lewis, E.** (2017, MSc Dissertation, University of Cardiff) [Using open source data to measure national wellbeing](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/Dissertation.pdf)
 * **Abbott O.**, **Lee P.**, **Upson M.**, **Gregory M.**, **Duhaney D.** (Statistical Data Science conference 2017 Conference paper) Blending Data Science and statistics across government - Forthcoming
