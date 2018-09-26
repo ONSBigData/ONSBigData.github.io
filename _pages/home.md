@@ -12,7 +12,7 @@ Within the [Office for National Statistics (ONS)](https://www.ons.gov.uk/), we w
 
 All of our work fully complies with legal requirements and our obligations under the [Code of Practice for Official Statistics](https://www.statisticsauthority.gov.uk/osr/code-of-practice/). Part of the research within the project considers the ethical issues associated with using these types of data sources within official statistics.
 
-For more information about the Big Data Team, please contact us at: [ons.big.data.project@ons.gov.uk](mailto:ons.big.data.project@ons.gsi.gov.uk)
+For more information about the Big Data Team, please contact us at: [ons.big.data.project@ons.gov.uk](mailto:ons.big.data.project@ons.gov.uk)
 
 <br>
 <br>
