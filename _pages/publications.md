@@ -2,7 +2,7 @@
 title: "Published work"
 layout: single
 permalink: /publications/
-last_modified_at: 2018-09-26T09:38:13+01:00
+last_modified_at: 2019-04-12T09:38:13+01:00
 ---
 
 **A list of all the Big Data Teams published work.**
