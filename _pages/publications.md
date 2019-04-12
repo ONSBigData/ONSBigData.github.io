@@ -14,9 +14,9 @@ Please contact us at <ons.big.data.project@ons.gov.uk> if you would like more in
 
 ## Methodology working papers
 
-* **Špakulová I., Gask K., Hopper, N.A. and James, M.** (2019) [Using data science for the address matching service](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno17usingdatasciencefortheaddressmatchingservice)
-* **Šakulová I., Dove I., Bates, A. and Turner, A.** (2019) [Synthetic data pilot](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot)
-* **Špakulová I.** (2018) [Caravan park recognition in aerial imagery](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber15feasibilitystudycaravanparksrecognitioninaerialimagery)
+* :star: **Špakulová I., Gask K., Hopper, N.A. and James, M.** (2019) [Using data science for the address matching service](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno17usingdatasciencefortheaddressmatchingservice)
+* :star: **Šakulová I., Dove I., Bates, A. and Turner, A.** (2019) [Synthetic data pilot](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot)
+* :star: **Špakulová I.** (2018) [Caravan park recognition in aerial imagery](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber15feasibilitystudycaravanparksrecognitioninaerialimagery)
 * **Snow M.** (2018) [Unsupervised Document Clustering with Cluster Topic Identification](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesnumber14unsuperviseddocumentclusteringwithclustertopicidentification) <a href="https://github.com/ONSBigData/Clustering_paper"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Williams S., Sozzi A.** (2017) [Comparing densities of mobile cell towers with population estimates](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber13comparingthedensityofmobilephonecelltowerswithpopulationestimates) <a href="https://github.com/ONSBigData/OpencellID-analysis"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * **Gask K.** (2017) [Identifying caravan homes in Zoopla data](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) <a href="https://github.com/ONSBigData/housing-websites"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
@@ -53,13 +53,14 @@ Please contact us at <ons.big.data.project@ons.gov.uk> if you would like more in
 * [ESSnet WP5 Mobile phone data wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP5_Mobile_phone_data)
 * [ESSnet WP7 Multiple Domains wiki](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP7_Multiple_domains)
 ## Specific Papers
-* :star: [ESSnet WP5 Final Reports](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP5_Reports,_milestones_and_deliverables) 
+* [ESSnet WP5 Final Reports](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WP5_Reports,_milestones_and_deliverables) 
 * [ESSNet pilot report on web scraping for job vacancy statistics](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/2/20/Deliverable_1_3_main_report_final_1.0.pdf) Nigel Swier, Frantisek Hajnovic (ONS, UK) Ingegerd Jansson, Dan Wu (SCB, Sweden) Boro Nikic (SURS, Slovenia) Christina Pierrakou (ELSTAT, Greece) Martina Rengers (DESTATIS, Germany), August 2017
 * [ESSNet WP7 pilot report: Social media sentiment on events and links with well-being](https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study/blob/master/Final_doc.pdf) Sozzi, A., Morris, C., Brett, K., Gask K. and Swier, N. <a href="https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * [ESSNet Google Trends as a source for measuring sentiment and personal well-being](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/images/e/eb/Google_trends_wellbeing.docx) Nigel Swier, September 2016
 
 ## Other published papers and work
 
+* :star: **Hajnovic F.**, **Sozzi A.** (NTTS 2019 Conference paper) [Outlier Detection Methods for mixed-type and large-scale data like Census](https://coms.events/ntts2019/data/abstracts/en/abstract_0103.html)
 * :star: **Gask K.** (RSS 2018 Conference paper) [Statistics on jobs, businesses and people – where data science is adding value](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf)
 * :star: **Rowland E.**, **Lawrence J.**, **Davis N.**, **Fitzroy A.**, **Vince B.**, **Elliot D.** (RSS 2018 Conference paper) [Traffic flow as an early indicator for GDP growth](https://onsbigdata.github.io/RSS-2018/#/) <a href="https://github.com/ONSBigData/RSS-2018"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
 * :star: **Sozzi A.**, **Greaney S.** (GSS Symposium 2018 Conference paper) [Using Machine Learning and NLP to automate Crime Survey for England and Wales (CSEW) offence coding](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/SG_GSS_Symposium_2018.pptx)
